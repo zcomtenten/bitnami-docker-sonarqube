@@ -1,5 +1,5 @@
 FROM arm64v8/amazoncorretto:11
-LABEL maintainer "Bitnami <containers@bitnami.com>"
+LABEL maintainer "Vouu <contact@manhtuong.net>"
 
 ENV HOME="/" \
     OS_ARCH="amd64" \
