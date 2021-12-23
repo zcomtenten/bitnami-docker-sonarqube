@@ -1,4 +1,4 @@
-FROM arm64v8/amazoncorretto:11
+FROM ubuntu:20.04
 LABEL maintainer "Vouu <contact@manhtuong.net>"
 
 ENV HOME="/" \
