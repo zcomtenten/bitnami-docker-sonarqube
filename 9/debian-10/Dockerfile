@@ -1,4 +1,4 @@
-FROM docker.io/bitnami/minideb:buster
+FROM arm64v8/amazoncorretto:11
 LABEL maintainer "Bitnami <containers@bitnami.com>"
 
 ENV HOME="/" \
